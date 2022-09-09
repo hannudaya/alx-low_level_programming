@@ -1,0 +1,2 @@
+#!/bin/bash
+c51 myfile.c src
