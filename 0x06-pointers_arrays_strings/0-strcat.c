@@ -8,6 +8,6 @@
  */
 char *_strtcat(char *dest, char *src)
 {
-	strcat(dest, src);
-	return (dest);
+	strcat(*dest, *src);
+	return (*dest);
 }
