@@ -29,11 +29,11 @@ int comparer(char *s, int n1, int n2)
 	return (0);
 }
 /**
- * _is_palindrome - checks if a string is empty
+ * is_palindrome - checks if a string is empty
  * @s: input string
  * Return: 1 if string is empty, otherwise return 0
  */
-int _is_palindrome(char *s)
+int is_palindrome(char *s)
 {
 	if (*s == '\0')
 		return (1);
