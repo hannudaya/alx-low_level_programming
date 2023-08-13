@@ -4,7 +4,7 @@
  * @b: the size of the string
  * Return: a pointer, or Null
  */
-void *malloc_checked(unsigned int b);
+void *malloc_checked(unsigned int b)
 {
 	void *nb;
 
