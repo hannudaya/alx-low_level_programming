@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include "main.h"
 /**
  * main -entry to the program
  * @void: nothin
